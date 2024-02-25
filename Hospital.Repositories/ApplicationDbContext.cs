@@ -1,4 +1,4 @@
-﻿using Hospital.Models;
+﻿using hospital.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hospital.Repositories
+namespace hospital.Repositories
 {
     public class ApplicationDbContext : IdentityDbContext
     {

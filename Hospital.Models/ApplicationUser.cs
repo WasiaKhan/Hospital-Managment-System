@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hospital.Models
+namespace hospital.Models
 {
     public class ApplicationUser : IdentityUser
     {

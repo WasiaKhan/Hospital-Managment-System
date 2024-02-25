@@ -1,5 +1,5 @@
-﻿using Hospital.Models;
-using Hospital.Repositories;
+﻿using hospital.Models;
+using hospital.Repositories;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hospital.Utilities
+namespace hospital.Utilities
 {
     public class DbInitializer : IDbInitializer
     {

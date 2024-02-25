@@ -1,8 +1,8 @@
-﻿using Hospital.Web.Models;
+﻿using hospital.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Hospital.Web.Controllers
+namespace hospital.Web.Controllers
 {
     public class HomeController : Controller
     {
